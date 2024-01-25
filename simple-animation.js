@@ -1,3 +1,6 @@
 console.log ("test js")
-
-console.log("test2")
+ if (condition) {
+    
+ } else {
+    
+ }
